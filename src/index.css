@@ -1,3 +1,288 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    /* Base colors */
+    --white: #FFFFFF;
+    
+    /* Primary colors - Soft Pink */
+    --primary-100: #FFF9F8;
+    --primary-200: #FFEFED;
+    --primary-300: #FFE4E1;
+    --primary-400: #FFD9D4;
+    --primary-500: #FFCEC7;
+    --primary-600: #FFB3A7;
+    --primary-700: #FF9887;
+    --primary-800: #FF7D67;
+    --primary-900: #FF6247;
+    --primary-hover: #FF9887;
+    
+    /* Secondary colors - Warm Beige */
+    --secondary-100: #FDFAF6;
+    --secondary-200: #FAF2EA;
+    --secondary-300: #F5E6D3;
+    --secondary-400: #ECD5BB;
+    --secondary-500: #E3C4A3;
+    --secondary-600: #DAB38B;
+    --secondary-700: #D1A273;
+    --secondary-800: #C8915B;
+    --secondary-900: #BF8043;
+    
+    /* Accent colors - Sage Green */
+    --accent-100: #F4F6F2;
+    --accent-200: #E3E8DD;
+    --accent-300: #C1CCBA;
+    --accent-400: #9CAF88;
+    --accent-500: #8A9D76;
+    --accent-600: #788B64;
+    --accent-700: #667952;
+    --accent-800: #546740;
+    --accent-900: #42552E;
+    --accent-hover: #788B64;
+
+    /* Supporting colors */
+    --success: #4A8B4A;
+    --success-light: #6BA56B;
+    --success-dark: #2A712A;
+    --warning: #E6B65C;
+    --warning-light: #F0C87D;
+    --warning-dark: #D9A43B;
+    --error: #D67F7F;
+    --error-light: #E39D9D;
+    --error-dark: #C96161;
+    --info: #7B9EC7;
+    --info-light: #99B6D7;
+    --info-dark: #5D86B7;
+    
+    /* Gradients */
+    --gradient-hero: linear-gradient(180deg, #FFE4E1 0%, #FFCEC7 100%);
+    --gradient-overlay: linear-gradient(180deg, rgba(255, 228, 225, 0.9) 0%, rgba(255, 206, 199, 0.95) 100%);
+    --gradient-natural: linear-gradient(135deg, #9CAF88 0%, #8A9D76 100%);
+    --gradient-light: linear-gradient(180deg, rgba(253, 250, 246, 0.8) 0%, rgba(253, 250, 246, 0) 100%);
+    
+    /* Typography */
+    --font-family-display: 'Cormorant Garamond', serif;
+    --font-family-heading: 'Cormorant Garamond', serif;
+    --font-family-body: 'Lato', sans-serif;
+    
+    /* Font Weights */
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    
+    /* Font Sizes */
+    --font-size-display-1: 4rem;
+    --font-size-display-2: 3.5rem;
+    --font-size-h1: 3rem;
+    --font-size-h2: 2.5rem;
+    --font-size-h3: 2rem;
+    --font-size-h4: 1.5rem;
+    --font-size-large: 1.25rem;
+    --font-size-base: 1rem;
+    --font-size-small: 0.875rem;
+    --font-size-xs: 0.75rem;
+    
+    /* Line Heights */
+    --line-height-tight: 1.25;
+    --line-height-normal: 1.5;
+    --line-height-relaxed: 1.75;
+    
+    /* Spacing */
+    --spacing-0: 0;
+    --spacing-1: 0.25rem;
+    --spacing-2: 0.5rem;
+    --spacing-3: 0.75rem;
+    --spacing-4: 1rem;
+    --spacing-6: 1.5rem;
+    --spacing-8: 2rem;
+    --spacing-12: 3rem;
+    --spacing-16: 4rem;
+    --spacing-20: 5rem;
+    --spacing-24: 6rem;
+    
+    /* Border Radius */
+    --radius-none: 0;
+    --radius-sm: 0.25rem;
+    --radius-md: 0.5rem;
+    --radius-lg: 0.75rem;
+    --radius-xl: 0.75rem;
+    --radius-2xl: 1rem;
+    --radius-full: 9999px;
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 2px rgba(156, 175, 136, 0.05);
+    --shadow-md: 0 4px 6px rgba(156, 175, 136, 0.1);
+    --shadow-lg: 0 10px 15px rgba(156, 175, 136, 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+    
+    /* Coach Info */
+    --coach-name: "Bonnie Malone";
+    --coach-profile-image: "https://nrojbwxcqochzwhmmkql.supabase.co/storage/v1/object/sign/coaches-profile-images/Bonnie%20Malone%20PP.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJjb2FjaGVzLXByb2ZpbGUtaW1hZ2VzL0Jvbm5pZSBNYWxvbmUgUFAucG5nIiwiaWF0IjoxNzQzNTE2MTYyLCJleHAiOjE3NzUwNTIxNjJ9.4xCbUb8CxLU-OmOC6q8BeUwWe4d0kr1bLQ0XXg0sfY4";
+  }
+}
+
+/* Typography Styles */
+h1, .h1 {
+  font-family: var(--font-family-display);
+  font-size: var(--font-size-h1);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+  color: var(--accent-700);
+}
+
+h2, .h2 {
+  font-family: var(--font-family-heading);
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-tight);
+  color: var(--accent-600);
+}
+
+h3, .h3 {
+  font-family: var(--font-family-heading);
+  font-size: var(--font-size-h3);
+  font-weight: var(--font-weight-medium);
+  line-height: var(--line-height-tight);
+  color: var(--accent-700);
+}
+
+h4, .h4 {
+  font-family: var(--font-family-heading);
+  font-size: var(--font-size-h4);
+  font-weight: var(--font-weight-medium);
+  line-height: var(--line-height-normal);
+  color: var(--accent-600);
+}
+
+body {
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-regular);
+  line-height: var(--line-height-normal);
+  color: var(--secondary-800);
+  background-color: var(--secondary-100);
+}
+
+/* Component Styles */
+.quiz-container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: var(--white);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+}
+
+.quiz-title {
+  font-family: var(--font-family-display);
+  font-size: var(--font-size-h1);
+  font-weight: var(--font-weight-bold);
+  color: var(--accent-700);
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.quiz-subtitle {
+  font-size: var(--font-size-large);
+  color: var(--secondary-700);
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.coach-image {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1.5rem;
+  border: 3px solid var(--accent-200);
+  display: block;
+}
+
+.btn-primary {
+  background-color: var(--accent-500);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-md);
+  font-weight: var(--font-weight-medium);
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-hover);
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: var(--accent-500);
+  border: 1px solid var(--accent-500);
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-md);
+  font-weight: var(--font-weight-medium);
+  transition: all 0.2s ease;
+}
+
+.btn-secondary:hover {
+  background-color: var(--accent-100);
+}
+
+.question-option {
+  border: 1px solid var(--secondary-300);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.question-option:hover {
+  border-color: var(--accent-400);
+  background-color: var(--accent-100);
+}
+
+.question-option.selected {
+  border-color: var(--accent-500);
+  background-color: var(--accent-100);
+}
+
+/* Result page styles */
+.result-container {
+  background-color: var(--white);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+}
+
+.mistake-name {
+  color: var(--accent-700);
+}
+
+.transformation-tips {
+  list-style-position: outside;
+  padding-left: 1.5rem;
+}
+
+.transformation-tips li {
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+/* Animation classes */
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

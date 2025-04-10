@@ -1,0 +1,473 @@
+﻿{
+    "coach":  {
+                  "profilePicture":  "https://nrojbwxcqochzwhmmkql.supabase.co/storage/v1/object/sign/coaches-profile-images/Bonnie%20Malone%20PP.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJjb2FjaGVzLXByb2ZpbGUtaW1hZ2VzL0Jvbm5pZSBNYWxvbmUgUFAucG5nIiwiaWF0IjoxNzQzNTE2MTYyLCJleHAiOjE3NzUwNTIxNjJ9.4xCbUb8CxLU-OmOC6q8BeUwWe4d0kr1bLQ0XXg0sfY4",
+                  "backstory":  {
+                                    "heroJourney":  {
+                                                        "transformationProcess":  "Bonnie's journey began with her own struggles with weight and health. After years of following restrictive diets with temporary success but inevitable rebound, she discovered a gentler, more sustainable approach that honored her body's needs and focused on joy rather than deprivation.",
+                                                        "lessonsLearned":  "Bonnie learned that sustainable health transformation comes from kindness, not criticism; from adding positive habits, not just eliminating foods; and from addressing all areas of life that impact wellness, not just diet and exercise.",
+                                                        "currentSuccessState":  "Today, Bonnie maintains a healthy weight and vibrant energy through gentle, joy-centered practices. She now guides other middle-aged women to achieve similar transformations without the struggle and deprivation of traditional approaches.",
+                                                        "challengesFaced":  "Yo-yo dieting, self-criticism, health concerns, hormonal changes of midlife, and societal pressure to follow restrictive approaches that weren't sustainable for long-term wellbeing.",
+                                                        "startingPoint":  "Bonnie began her journey as an overwhelmed midlife woman juggling multiple responsibilities while struggling with her weight, energy levels, and relationship with her body.",
+                                                        "whyHelpingOthers":  "Having experienced the freedom and joy that comes from a gentler approach to weight loss and health, Bonnie is passionate about helping other middle-aged women break free from the cycle of restrictive dieting and discover sustainable wellness."
+                                                    }
+                                },
+                  "socialLinks":  {
+                                      "whatsapp":  "+12345678900",
+                                      "youtube":  "bonniemalonecoach",
+                                      "instagram":  "https://www.instagram.com/bonniemalonecoach/",
+                                      "website":  "https://bonniemalonecoach.com/",
+                                      "email":  "bonniemalone@bonniemalonecoach.com",
+                                      "tiktok":  "@bonniemalonecoach"
+                                  },
+                  "mission":  "To guide middle-aged women towards optimal health and sustainable weight loss through gentle, transformative approaches that honor their body's wisdom and create lasting positive change.",
+                  "targetAudience":  {
+                                         "limitingBeliefs":  "Weight loss is too hard at my age, I've tried everything and nothing works, I don't have time for self-care, My metabolism is permanently damaged, It's selfish to prioritize myself, I'll always struggle with my weight",
+                                         "wants":  "Sustainable weight loss, Better health and energy, Peace with food and body, Simple and enjoyable health routines, Confidence and comfort in their own skin, Solutions that fit their busy lives",
+                                         "fears":  "Failing another diet, Never feeling confident, Health declining with age, Wasting time and money on another program that doesn't work, Living the rest of life feeling uncomfortable and unhappy",
+                                         "copingMechanism":  "Yo-yo dieting, emotional eating, excessive exercising followed by complete avoidance, trying every new diet trend, ignoring health concerns, putting everyone else's needs first",
+                                         "objections":  {
+                                                            "skepticismBasedObjections":  {
+                                                                                              "category":  "Skepticism",
+                                                                                              "commonStatements":  [
+                                                                                                                      "I've tried everything and nothing works",
+                                                                                                                      "How is this different from other programs?",
+                                                                                                                      "I don't believe gentle approaches can work for weight loss"
+                                                                                                                   ],
+                                                                                              "responseApproach":  "Acknowledge past experiences, explain the science behind gentle approaches, share success stories of women with similar backgrounds, and offer clear differentiation from traditional programs."
+                                                                                          },
+                                                            "timeBasedObjections":  {
+                                                                                        "category":  "Time",
+                                                                                        "commonStatements":  [
+                                                                                                                 "I'm too busy to focus on my health right now",
+                                                                                                                 "I don't have time to prepare special meals",
+                                                                                                                 "I can't fit more commitments into my schedule"
+                                                                                                             ],
+                                                                                        "responseApproach":  "Emphasize that the program is designed for busy women, highlight time-saving approaches, explain how improved health actually creates more time and energy, and showcase simple implementation strategies."
+                                                                                    },
+                                                            "valueBasedObjections":  {
+                                                                                         "category":  "Value",
+                                                                                         "commonStatements":  [
+                                                                                                                  "I can't afford to invest in myself right now",
+                                                                                                                  "How do I know this will be worth the money?",
+                                                                                                                  "I've already spent so much on programs that didn't work"
+                                                                                                              ],
+                                                                                         "responseApproach":  "Focus on the long-term savings of improved health, contrast with costs of continued struggles, share ROI examples from past clients, and emphasize the comprehensive support that differentiates this program."
+                                                                                     },
+                                                            "capabilityBasedObjections":  {
+                                                                                              "category":  "Capability",
+                                                                                              "commonStatements":  [
+                                                                                                                       "I don't think I can stick with another program",
+                                                                                                                       "I lack the willpower to make changes",
+                                                                                                                       "My situation is different/more difficult than others"
+                                                                                                                   ],
+                                                                                              "responseApproach":  "Explain how the program is designed to work with human psychology rather than against it, provide evidence of success with similar clients, emphasize the support systems built into the program, and highlight the gentle approach that doesn't require extreme willpower."
+                                                                                          }
+                                                        },
+                                         "enemies":  "Diet culture, extreme fitness programs, negative self-talk, societal pressure, all-or-nothing thinking, perfectionism, isolation, hormonal changes, stress, others' expectations",
+                                         "dreams":  "Living with energy and vitality, feeling comfortable in their body, enjoying food without guilt, being present and active with family, aging well, finding joy in health practices, freedom from dieting mentality",
+                                         "frustrations":  "Weight that won't budge despite efforts, conflicting advice, programs that don't address midlife women's unique needs, lack of sustainable solutions, feeling misunderstood, fatigue and lack of energy, struggling alone",
+                                         "habits":  [
+                                                      "Emotional eating",
+                                                      "Yo-yo dieting",
+                                                      "Neglecting self-care"
+                                                    ]
+                                     },
+                  "name":  "Bonnie Malone",
+                  "businessName":  "Bonnie Malone Coaching",
+                  "habits":  {
+                                 "suggestions":  [
+                                                     {
+                                                         "category":  "mindset",
+                                                         "name":  "Gentle Self-Talk",
+                                                         "id":  "gentle_self_talk",
+                                                         "description":  "Practice speaking to yourself with the same kindness you would offer a good friend, especially when discussing your body or health goals."
+                                                     },
+                                                     {
+                                                         "category":  "mindset",
+                                                         "name":  "Daily Appreciation",
+                                                         "id":  "body_appreciation",
+                                                         "description":  "Each morning, acknowledge something your body does for you that you're grateful for, focusing on function rather than appearance."
+                                                     },
+                                                     {
+                                                         "category":  "nourishment",
+                                                         "name":  "Mindful Meals",
+                                                         "id":  "mindful_meals",
+                                                         "description":  "Eat at least one meal per day without distractions, taking time to notice flavors, textures, and your body's hunger and fullness cues."
+                                                     },
+                                                     {
+                                                         "category":  "nourishment",
+                                                         "name":  "Joyful Movement",
+                                                         "id":  "joyful_movement",
+                                                         "description":  "Engage in 15-30 minutes of movement that feels good to your body, focusing on enjoyment rather than calorie burning."
+                                                     },
+                                                     {
+                                                         "category":  "boundaries",
+                                                         "name":  "Intentional No",
+                                                         "id":  "intentional_no",
+                                                         "description":  "Practice saying no to one request or obligation that doesn't align with your health priorities or drains your energy."
+                                                     },
+                                                     {
+                                                         "category":  "boundaries",
+                                                         "name":  "Self-Care Block",
+                                                         "id":  "self_care_block",
+                                                         "description":  "Schedule and protect 20 minutes of uninterrupted time for yourself each day, treating it with the same importance as any other appointment."
+                                                     },
+                                                     {
+                                                         "category":  "connection",
+                                                         "name":  "Body Check-In",
+                                                         "id":  "body_checkin",
+                                                         "description":  "Pause three times throughout your day to notice how your body feels and what it might need (rest, movement, water, nourishment)."
+                                                     },
+                                                     {
+                                                         "category":  "connection",
+                                                         "name":  "Stress Response Reset",
+                                                         "id":  "stress_reset",
+                                                         "description":  "When feeling stressed, take three deep breaths while placing one hand on your heart, activating your parasympathetic nervous system."
+                                                     },
+                                                     {
+                                                         "category":  "joy",
+                                                         "name":  "Daily Joy Practice",
+                                                         "id":  "joy_practice",
+                                                         "description":  "Intentionally do one small thing each day purely because it brings you joy, without any productivity or health purpose."
+                                                     },
+                                                     {
+                                                         "category":  "joy",
+                                                         "name":  "Celebration Moments",
+                                                         "id":  "celebration",
+                                                         "description":  "Acknowledge and celebrate small wins in your health journey, taking time to recognize progress beyond the scale."
+                                                     }
+                                                 ],
+                                 "categories":  [
+                                                    {
+                                                        "name":  "Positive Mindset",
+                                                        "id":  "mindset",
+                                                        "emoji":  "🥰",
+                                                        "description": "Cultivate kind thoughts and positive beliefs about yourself and your health journey."
+                                                    },
+                                                    {
+                                                        "name":  "Gentle Nourishment",
+                                                        "id":  "nourishment",
+                                                        "emoji":  "😋",
+                                                        "description": "Develop sustainable practices for nourishing your body with awareness and enjoyment."
+                                                    },
+                                                    {
+                                                        "name":  "Healthy Boundaries",
+                                                        "id":  "boundaries",
+                                                        "emoji":  "😌",
+                                                        "description": "Create space for your wellbeing by setting limits and honoring your needs."
+                                                    },
+                                                    {
+                                                        "name":  "Body Connection",
+                                                        "id":  "connection",
+                                                        "emoji":  "🤗",
+                                                        "description": "Strengthen the relationship with your body through awareness and respect."
+                                                    },
+                                                    {
+                                                        "name":  "Joy & Celebration",
+                                                        "id":  "joy",
+                                                        "emoji":  "😊",
+                                                        "description": "Bring pleasure and fun into your health journey through celebration and enjoyment."
+                                                    }
+                                                ]
+                             },
+                  "brand":  {
+                                "colorSystem":  {
+                                                    "accent":  {
+                                                                   "200":  "#E3E8DD",
+                                                                   "300":  "#C1CCBA",
+                                                                   "700":  "#667952",
+                                                                   "hover":  "#788B64",
+                                                                   "name":  "Sage Green",
+                                                                   "600":  "#788B64",
+                                                                   "100":  "#F4F6F2",
+                                                                   "500":  "#8A9D76",
+                                                                   "400":  "#9CAF88",
+                                                                   "800":  "#546740",
+                                                                   "900":  "#42552E"
+                                                               },
+                                                    "secondary":  {
+                                                                      "200":  "#FAF2EA",
+                                                                      "300":  "#F5E6D3",
+                                                                      "700":  "#D1A273",
+                                                                      "800":  "#C8915B",
+                                                                      "name":  "Warm Beige",
+                                                                      "600":  "#DAB38B",
+                                                                      "100":  "#FDFAF6",
+                                                                      "500":  "#E3C4A3",
+                                                                      "400":  "#ECD5BB",
+                                                                      "900":  "#BF8043"
+                                                                  },
+                                                    "primary":  {
+                                                                    "200":  "#FFEFED",
+                                                                    "300":  "#FFE4E1",
+                                                                    "700":  "#FF9887",
+                                                                    "800":  "#FF7D67",
+                                                                    "name":  "Soft Pink",
+                                                                    "600":  "#FFB3A7",
+                                                                    "100":  "#FFF9F8",
+                                                                    "500":  "#FFCEC7",
+                                                                    "400":  "#FFD9D4",
+                                                                    "900":  "#FF6247"
+                                                                },
+                                                    "base":  {
+                                                                 "default":  "#FFFFFF",
+                                                                 "name":  "white"
+                                                             }
+                                                },
+                                "borderRadius":  {
+                                                     "md":  "0.5rem",
+                                                     "lg":  "0.75rem",
+                                                     "xl":  "0.75rem",
+                                                     "none":  "0",
+                                                     "sm":  "0.25rem",
+                                                     "full":  "9999px",
+                                                     "2xl":  "1rem"
+                                                 },
+                                "spacing":  {
+                                                "16":  "4rem",
+                                                "12":  "3rem",
+                                                "3":  "0.75rem",
+                                                "20":  "5rem",
+                                                "4":  "1rem",
+                                                "2":  "0.5rem",
+                                                "1":  "0.25rem",
+                                                "0":  "0",
+                                                "24":  "6rem",
+                                                "6":  "1.5rem",
+                                                "8":  "2rem",
+                                                "base":  "1rem",
+                                                "large":  "2rem"
+                                            },
+                                "shadows":  {
+                                                "sm":  "0 1px 2px rgba(156, 175, 136, 0.05)",
+                                                "lg":  "0 10px 15px rgba(156, 175, 136, 0.1)",
+                                                "md":  "0 4px 6px rgba(156, 175, 136, 0.1)",
+                                                "xl":  "0 20px 25px -5px rgb(0 0 0 / 0.1)"
+                                            },
+                                "typography":  {
+                                                   "display":  {
+                                                                   "weights":  {
+                                                                                   "regular": 400,
+                                                                                   "medium": 500,
+                                                                                   "semibold": 600,
+                                                                                   "bold": 700
+                                                                               },
+                                                                   "usage":  "Hero sections, major entry points, impactful headlines",
+                                                                   "fontFamily":  "Cormorant Garamond, serif"
+                                                               },
+                                                   "heading":  {
+                                                                   "weights":  {
+                                                                                   "regular": 400,
+                                                                                   "medium": 500,
+                                                                                   "semibold": 600,
+                                                                                   "bold": 700
+                                                                               },
+                                                                   "usage":  "Section headers, navigation, card titles",
+                                                                   "fontFamily":  "Cormorant Garamond, serif"
+                                                               },
+                                                   "body":  {
+                                                                "weights":  {
+                                                                                "light": 300,
+                                                                                "regular": 400,
+                                                                                "medium": 500,
+                                                                                "semibold": 600
+                                                                            },
+                                                                "usage":  "Body text, UI elements, buttons",
+                                                                "fontFamily":  "Lato, sans-serif"
+                                                            },
+                                                   "scale":  {
+                                                                 "display":  {
+                                                                                 "1":  "4rem",
+                                                                                 "2":  "3.5rem"
+                                                                             },
+                                                                 "heading":  {
+                                                                                 "h1":  "3rem",
+                                                                                 "h2":  "2.5rem",
+                                                                                 "h3":  "2rem",
+                                                                                 "h4":  "1.5rem"
+                                                                             },
+                                                                 "body":  {
+                                                                              "large":  "1.25rem",
+                                                                              "base":  "1rem",
+                                                                              "small":  "0.875rem",
+                                                                              "xs":  "0.75rem"
+                                                                          }
+                                                             },
+                                                   "lineHeight":  {
+                                                                      "tight":  "1.25",
+                                                                      "relaxed":  "1.75",
+                                                                      "normal":  "1.5"
+                                                                  }
+                                               },
+                                "gradients":  {
+                                                  "primary":  {
+                                                                  "hero":  "linear-gradient(180deg, #FFE4E1 0%, #FFCEC7 100%)",
+                                                                  "overlay":  "linear-gradient(180deg, rgba(255, 228, 225, 0.9) 0%, rgba(255, 206, 199, 0.95) 100%)"
+                                                              },
+                                                  "secondary":  {
+                                                                    "natural":  "linear-gradient(135deg, #9CAF88 0%, #8A9D76 100%)",
+                                                                    "light":  "linear-gradient(180deg, rgba(253, 250, 246, 0.8) 0%, rgba(253, 250, 246, 0) 100%)"
+                                                                }
+                                              },
+                                "supportingColors":  {
+                                                         "success":  {
+                                                                         "light":  "#6BA56B",
+                                                                         "default":  "#4A8B4A",
+                                                                         "dark":  "#2A712A"
+                                                                     },
+                                                         "warning":  {
+                                                                         "light":  "#F0C87D",
+                                                                         "default":  "#E6B65C",
+                                                                         "dark":  "#D9A43B"
+                                                                     },
+                                                         "error":  {
+                                                                       "light":  "#E39D9D",
+                                                                       "default":  "#D67F7F",
+                                                                       "dark":  "#C96161"
+                                                                   },
+                                                         "info":  {
+                                                                      "light":  "#99B6D7",
+                                                                      "default":  "#7B9EC7",
+                                                                      "dark":  "#5D86B7"
+                                                                  }
+                                                     },
+                                "componentTokens":  {
+                                                        "input":  {
+                                                                      "placeholder":  "rgba(156, 175, 136, 0.5)",
+                                                                      "focus":  {
+                                                                                    "border":  "#9CAF88",
+                                                                                    "ring":  "#9CAF88"
+                                                                                },
+                                                                      "background":  "white",
+                                                                      "border":  "rgba(156, 175, 136, 0.2)",
+                                                                      "text":  "var(--secondary-900)"
+                                                                  },
+                                                        "card":  {
+                                                                     "background":  "white",
+                                                                     "border":  "rgba(156, 175, 136, 0.1)",
+                                                                     "shadow":  "0 4px 16px rgba(156, 175, 136, 0.08)",
+                                                                     "radius":  "0.75rem",
+                                                                     "padding":  "2rem"
+                                                                 },
+                                                        "button":  {
+                                                                       "primary":  {
+                                                                                       "background":  "#9CAF88",
+                                                                                       "hover":  "#8A9D76",
+                                                                                       "active":  "#788B64",
+                                                                                       "text":  "white",
+                                                                                       "disabled":  "#C1CCBA",
+                                                                                       "fontSize":  "1rem",
+                                                                                       "fontWeight":  "500",
+                                                                                       "borderRadius":  "0.5rem",
+                                                                                       "paddingVertical":  "1rem",
+                                                                                       "paddingHorizontal":  "2rem"
+                                                                                   },
+                                                                       "secondary":  {
+                                                                                         "background":  "transparent",
+                                                                                         "hover":  "#F4F6F2",
+                                                                                         "active":  "#E3E8DD",
+                                                                                         "text":  "#8A9D76",
+                                                                                         "border":  "#8A9D76",
+                                                                                         "fontSize":  "1rem",
+                                                                                         "fontWeight":  "500",
+                                                                                         "borderRadius":  "0.5rem",
+                                                                                         "paddingVertical":  "1rem",
+                                                                                         "paddingHorizontal":  "2rem"
+                                                                                     }
+                                                                   }
+                                                    }
+                            },
+                  "quizTopics":  [
+                                     {
+                                         "id":  "gentle_weight_type",
+                                         "title":  "What's Your Gentle Weight Loss Personality?",
+                                         "description":  "Discover your unique approach to sustainable weight loss based on your mindset, habits, and preferences.",
+                                         "framework":  "Type",
+                                         "questions":  []
+                                     },
+                                     {
+                                         "id":  "midlife_metabolism",
+                                         "title":  "What's Really Slowing Your Midlife Metabolism?",
+                                         "description":  "Identify which specific factors are affecting your metabolism during midlife and learn personalized strategies to address them.",
+                                         "framework":  "Killer",
+                                         "questions":  []
+                                     },
+                                     {
+                                         "id":  "holistic_health_score",
+                                         "title":  "Your Holistic Health Score: Beyond the Scale",
+                                         "description":  "Assess your health across 8 key dimensions and discover which areas need the most attention for optimal wellbeing.",
+                                         "framework":  "Score",
+                                         "questions":  []
+                                     },
+                                     {
+                                         "id": "gentle_habit_style",
+                                         "title": "What's Your Gentle Health Habit Style?",
+                                         "description": "Discover your natural approach to building healthy habits without the overwhelm. Find routines that stick!",
+                                         "framework": "Type",
+                                         "questions": []
+                                     },
+                                     {
+                                         "id": "wellness_personality",
+                                         "title": "What's Your Midlife Wellness Personality?",
+                                         "description": "Are you a Nurturer, Explorer, or Strategist? Uncover your unique wellness personality for a happier, healthier you.",
+                                         "framework": "Type",
+                                         "questions": []
+                                     },
+                                     {
+                                         "id": "midlife_mistakes",
+                                         "title": "Are You Making These Common Midlife Weight Loss Mistakes?",
+                                         "description": "Find out if these sneaky (but common!) mistakes are holding you back from feeling your best after 40.",
+                                         "framework": "Killer",
+                                         "questions": []
+                                     },
+                                     {
+                                         "id": "hidden_stressors",
+                                         "title": "Are These Hidden Stressors Draining Your Energy?",
+                                         "description": "Identify the surprising daily stressors that might be zapping your energy and learn simple ways to recharge.",
+                                         "framework": "Killer",
+                                         "questions": []
+                                     },
+                                     {
+                                         "id": "wellness_wheel_score",
+                                         "title": "How Balanced is Your Midlife Wellness Wheel? (Quick Check!)",
+                                         "description": "Get a quick snapshot of your overall wellbeing across key areas. Find out where a little TLC could make a big difference.",
+                                         "framework": "Score",
+                                         "questions": []
+                                     },
+                                     {
+                                         "id": "metabolism_resilience",
+                                         "title": "How Resilient is Your Metabolism Right Now?",
+                                         "description": "Take this quick quiz to understand your metabolism's current strength and discover gentle ways to support it.",
+                                         "framework": "Score",
+                                         "questions": []
+                                     }
+                                 ],
+                  "proof":  {
+                                "testimonials":  [
+                                                     {
+                                                         "id":  "test1",
+                                                         "name":  "Jennifer M.",
+                                                         "position":  "Marketing Director, 52",
+                                                         "message":  "After decades of yo-yo dieting, Bonnie showed me a completely different approach. I've lost 28 pounds over 6 months without ever feeling deprived, and more importantly, I've maintained it while still enjoying food and life.",
+                                                         "stars":  5
+                                                     },
+                                                     {
+                                                         "id":  "test2",
+                                                         "name":  "Patricia K.",
+                                                         "position":  "School Teacher, 48",
+                                                         "message":  "What makes Bonnie's approach unique is her focus on joy and kindness. I've transformed my relationship with food, my body, and myself. The weight loss has been a wonderful side effect of this deeper healing.",
+                                                         "stars":  5
+                                                     },
+                                                     {
+                                                         "id":  "test3",
+                                                         "name":  "Carol S.",
+                                                         "position":  "Nurse, 56",
+                                                         "message":  "As a healthcare professional, I was skeptical about a 'gentle' approach to weight loss. But the science and psychology behind Bonnie's methods are sound, and the results speak for themselves. My energy is better than it's been in years.",
+                                                         "stars":  5
+                                                     }
+                                                 ],
+                                "currentLifestyle":  "Bonnie practices what she preaches, maintaining her health through gentle nutrition, joyful movement, and self-compassion. She regularly walks her dog in nature, prepares nourishing meals that she truly enjoys, and prioritizes adequate rest and stress management.",
+                                "coachResults":  "Bonnie has guided over 200 midlife women to sustainable weight loss and improved health. Her clients report an average weight loss of 15-25 pounds over 6 months, with a 90% maintenance rate after one year and significant improvements in energy, mood, and overall wellbeing."
+                            }
+              }
+}

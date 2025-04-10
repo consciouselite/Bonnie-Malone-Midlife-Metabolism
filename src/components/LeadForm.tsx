@@ -33,7 +33,7 @@ export const LeadForm: React.FC<LeadFormProps> = ({
         <input
           type="text"
           placeholder="First Name"
-          className="form-input text-sm sm:text-base"
+          className="form-input text-sm sm:text-base text-gray-900"
           value={userData.firstName}
           onChange={(e) => onChange('firstName', e.target.value)}
           required
@@ -44,7 +44,7 @@ export const LeadForm: React.FC<LeadFormProps> = ({
         <input
           type="text"
           placeholder="Last Name"
-          className="form-input text-sm sm:text-base"
+          className="form-input text-sm sm:text-base text-gray-900"
           value={userData.lastName}
           onChange={(e) => onChange('lastName', e.target.value)}
           required
@@ -55,7 +55,7 @@ export const LeadForm: React.FC<LeadFormProps> = ({
         <input
           type="email"
           placeholder="Email"
-          className="form-input text-sm sm:text-base"
+          className="form-input text-sm sm:text-base text-gray-900"
           value={userData.email}
           onChange={(e) => onChange('email', e.target.value)}
           required
@@ -66,7 +66,7 @@ export const LeadForm: React.FC<LeadFormProps> = ({
         <input
           type="tel"
           placeholder="Phone"
-          className="form-input text-sm sm:text-base"
+          className="form-input text-sm sm:text-base text-gray-900"
           value={userData.phone}
           onChange={(e) => onChange('phone', e.target.value)}
           required
@@ -79,7 +79,7 @@ export const LeadForm: React.FC<LeadFormProps> = ({
       <div className="pt-2">
         <button
           type="submit"
-          className="primary-button text-sm sm:text-base"
+          className="w-full py-2 sm:py-3 px-4 sm:px-6 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-all duration-200 font-semibold text-sm sm:text-base"
           disabled={isSubmitting}
         >
           {isSubmitting ? 'Saving Results...' : 'See My Results!'}
