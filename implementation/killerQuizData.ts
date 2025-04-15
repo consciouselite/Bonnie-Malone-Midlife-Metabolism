@@ -329,7 +329,7 @@ export const metabolismTypes: MetabolismType[] = [
     impact: "What's actually happening is brilliant but problematic: your body is prioritizing immediate energy access for \"emergencies\" over long-term metabolic efficiency. This made perfect sense when our ancestors faced actual tigers, but your body can't distinguish between deadline pressure and mortal danger.",
     timeline: "The shocking truth? Cortisol reduction practices show measurable metabolic shifts in just 14-21 days. Your body is desperate to recalibrate, but can't while perceiving constant threats.",
     solution: "The metabolism practices that will serve you best focus on nervous system regulation FIRST, before nutrition or exercise changes can actually work.",
-    image: "https://example.com/stress-spiral.jpg",
+    image: "https://images.pexels.com/photos/6539881/pexels-photo-6539881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
   {
     type: "The Hormone Havoc",
@@ -338,7 +338,7 @@ export const metabolismTypes: MetabolismType[] = [
     impact: "What's actually happening is a sophisticated biological transition: your reproductive hormone shifts create a domino effect throughout your entire metabolic system. This is an intelligent adaptation, not a breakdown, but it requires a completely different approach.",
     timeline: "The surprising reality? Hormone-specific strategies show measurable metabolic improvement in 30-60 days when properly aligned with your body's new patterns.",
     solution: "The metabolism practices that will serve you best work WITH your changing hormones rather than fighting against this natural transition.",
-    image: "https://example.com/hormone-havoc.jpg",
+    image: "https://images.pexels.com/photos/3807730/pexels-photo-3807730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
   {
     type: "The Outdated Operating System",
@@ -347,7 +347,7 @@ export const metabolismTypes: MetabolismType[] = [
     impact: "What's actually happening is metabolic adaptation: your body has become highly efficient at protecting you from the very approaches you're using. It's not broken - it's actually too good at adapting to what you've been doing.",
     timeline: "The counterintuitive truth? Metabolic recalibration through pattern interruption shows measurable results in 21-45 days when you stop forcing outdated strategies.",
     solution: "The metabolism practices that will serve you best require a fundamentally different framework built specifically for your current metabolic reality.",
-    image: "https://example.com/outdated-os.jpg",
+    image: "https://images.pexels.com/photos/17043386/pexels-photo-17043386/free-photo-of-a-person-holding-a-digital-blood-sugar-meter.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
   {
     type: "The Disconnection Dilemma",
@@ -356,7 +356,7 @@ export const metabolismTypes: MetabolismType[] = [
     impact: "What's actually happening is a communication breakdown: the sophisticated feedback loops that should regulate hunger, energy, and recovery can't function when overridden by external stimuli and distractions.",
     timeline: "The unexpected reality? Mindful eating and deliberate tech boundary practices show measurable metabolic impact within 14-28 days by restoring these natural communication channels.",
     solution: "The metabolism practices that will serve you best focus on rebuilding your intuitive body intelligence rather than adding more external tracking or information.",
-    image: "https://example.com/disconnection-dilemma.jpg",
+    image: "https://images.pexels.com/photos/6539969/pexels-photo-6539969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
   },
 ];
 
